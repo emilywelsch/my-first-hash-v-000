@@ -1,7 +1,7 @@
 def my_hash
   your_hash = {
     "my_name" => "Emily Welsch",
-    "my_moms_name" => "Geri Brooks".
+    "my_moms_name" => "Geri Brooks",
     "my_bobs_name" => "Robert Parks"
 }
 end
@@ -10,7 +10,7 @@ end
 def shipping_manifest
   the_manifest = {
     "whale bone corsets" => 5,
-    "porcelain vases" => 2
+    "porcelain vases" => 2,
     "oil paintings" => 3
   }
 end
